@@ -27,6 +27,12 @@ body {
     text-decoration: none;
     cursor: pointer;
 }
+
+.hero .button:hover{
+    background-color: #aaaaaa;
+    border: 1px solid #aaaaaa;
+
+}
 .hero .title {
     font-size: 40px;
 }
